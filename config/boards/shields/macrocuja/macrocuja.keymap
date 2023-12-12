@@ -104,10 +104,10 @@
     default_layer {
       label = "Base";
       bindings = <
-   &kp BACKSPACE    &kp KP_PLUS       &kp N7        &kp N8        &kp N9
-   &kp ENTER    &kp KP_MINUS        &kp N4        &kp N5        &kp N6
-   &kp TAB &kp KP_ASTERISK        &kp N1        &kp N2        &kp N3
-   &kp COMMA      &kp KP_DIVIDED &kp N0
+   &kp BACKSPACE    &kp KP_PLUS      &kp N7        &kp N8        &kp N9
+   &kp ENTER        &kp KP_MINUS     &kp N4        &kp N5        &kp N6
+   &1hp NUM TAB     &kp KP_ASTERISK  &kp N1        &kp N2        &kp N3
+   &kp KP_DOT       &kp KP_DIVIDED   &kp N0
       >;
     };
 
